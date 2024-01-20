@@ -1,9 +1,11 @@
 /* Projeto de Programa para Calcular o valor gasto em combustível em uma viagem.
     Nele estou utilizando muitas Variáveis.
     Falta adicionar:
+    ( ) Comandos de entradas
     ( ) Tipo de Veiculo
     ( ) Criar um Front End
     ( ) Desenvolver em forma de APP para Smartphone
+
 
     Até então, eu tenho... 
 
@@ -12,6 +14,8 @@
     3 - O Tipo de combustível que está no seu carro;
     4 - Gasto Médio de combustível
     4 - Dstância em KM da viagem;
+
+    
 
     */
 
